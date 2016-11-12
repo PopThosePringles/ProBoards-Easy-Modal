@@ -1,6 +1,7 @@
 .ui-dialog.easy-modal {
 
 	background-color: transparent;
+	position: fixed;
 
 }
 
