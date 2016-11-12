@@ -1,0 +1,29 @@
+.ui-dialog.easy-modal {
+
+	background-color: transparent;
+
+}
+
+.ui-dialog.easy-modal .ui-dialog-content {
+
+	border-top-width: 1px;
+	border-radius: 5px;
+
+}
+
+.ui-dialog.easy-modal .ui-dialog-content .easy-model-close {
+
+	color: #4589df;
+	font-weight: bold;
+	cursor: pointer;
+	position: absolute;
+	top: 5px;
+	right: 8px;
+
+}
+
+.ui-dialog.easy-modal .ui-dialog-content .easy-model-close:hover {
+
+	color: #80ade5;
+
+}
